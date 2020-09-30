@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/LowSpecCorgi/LowSpecCorgi/master/b2.png "Header")](https://lowspeccorgi.tech/)
 # Hi there! I'm Basilicous, a developer from the uk 🙂
 ![My profile views](https://komarev.com/ghpvc/?username=LowSpecCorgi)
-
+![ily](https://img.shields.io/badge/ily-tgm-red)
 <!-- Talking about you -->
 ## Projects I'm working on:
 
