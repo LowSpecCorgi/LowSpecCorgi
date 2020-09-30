@@ -1,12 +1,5 @@
-<!-- Your title -->
 # Hi there! I'm Basilicous, a developer from the uk 🙂
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
 ![My profile views](https://komarev.com/ghpvc/?username=LowSpecCorgi)
-
-&nbsp;
 
 <!-- Talking about you -->
 ## Projects I'm working on:
@@ -20,6 +13,8 @@ You can use the website to generate badges: https://shields.io/
 
 ## Pinned repos:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LowSpecCorgi&repo=HCL-Engine)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LowSpecCorgi&repo=Apollo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="left" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
