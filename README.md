@@ -6,7 +6,7 @@
 ## Projects I'm working on:
 
 - **I’m currently working on [HCL Engine](https://github.com/LowSpecCorgi/HCL-Engine)**
-- **I'm also working on a client [Apollo](https://github.com/LowSpecCorgi/Apollo)**
+- **I'm also working on a client [Gopine Client](https://github.com/LowSpecCorgi/gopine-client)**
 
 ## My stats:
 ![Basilicous' github stats](https://github-readme-stats.vercel.app/api?username=LowSpecCorgi&show_icons=true&count_private=true&bg_color=10,e86444,904e95&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF)\
