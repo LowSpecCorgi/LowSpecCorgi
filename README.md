@@ -14,7 +14,7 @@
 
 ## Pinned repos:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LowSpecCorgi&repo=HCL-Engine&bg_color=10,e86444,904e95&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF)](https://github.com/LowSpecCorgi/HCL-Engine)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LowSpecCorgi&repo=Apollo&bg_color=10,e86444,904e95&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF)](https://github.com/LowSpecCorgi/Apollo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LowSpecCorgi&repo=Gopine&bg_color=10,e86444,904e95&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF)](https://github.com/LowSpecCorgi/gopine-client)
 
 ##
 
