@@ -8,7 +8,7 @@
 - **I’m currently working on a simple hud esque' mod, but for Fabric 1.16.4**
 
 ## My stats:
-![Basilicous' github stats](https://github-readme-stats.vercel.app/api?username=LowSpecCorgi&show_icons=true&count_private=true&bg_color=10,e86444,904e95&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF)\
+![Basilicous' github stats](https://github-readme-stats.vercel.app/api?username=LowSpecCorgi&show_icons=true&count_private=false&bg_color=10,e86444,904e95&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LowSpecCorgi&&langs_count=8&bg_color=10,e86444,904e95&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Pinned repos:
